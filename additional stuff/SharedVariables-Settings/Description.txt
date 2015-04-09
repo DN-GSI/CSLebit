@@ -1,0 +1,1 @@
+These are the two DIM_DSC Files which have to be used by the OPCInterface object

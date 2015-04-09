@@ -1,0 +1,1 @@
+This version requires MM6.exe version 6.0.7.x

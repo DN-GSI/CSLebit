@@ -1,0 +1,6 @@
+These csv files have to be imported in the KEPDirect program. 
+For this, first create the LEBIT_PLC device and then create the 3 Topics:
+
+BTopic (192.168.0.2)
+G2Topic (192.168.0.8)
+VTopic (192.168.0.3)
